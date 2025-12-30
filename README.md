@@ -26,12 +26,12 @@ To ensure a robust analysis for this portfolio, a multi-stage data pipeline was 
 
 1. The Institutional Support Gap
 
-Utilizing the "Potholes on the Road to College" framework, the data suggests that a "college-going climate," where teachers set high expectations, is the strongest indicator of success. However, disadvantaged schools often promote "expedited adulthood," prioritizing immediate economic self-sufficiency over long-term academic training.
+  Utilizing the "Potholes on the Road to College" framework, the data suggests that a "college-going climate," where teachers set high expectations, is the strongest indicator of success. However, disadvantaged schools often promote "expedited adulthood," prioritizing immediate economic self-sufficiency over long-term academic training.
 
 2. Financial & Systemic Disparities
 * Loan Dependency: 48% of Black students received federal student loans, which is 13% higher than the national average (35%).
-*  Poverty Correlation: The data visualizes a stark correlation between adult education levels and household poverty percentages from 2012 to 2022, highlighting that parental education remains the single strongest correlate of a child's school success.
-*   Legislative Impact: Analysis of HR 471 (2011) and S-117 (2015) reveals a trend of defunding DoE resources for disadvantaged groups, creating a systemic barrier to entry.
+* Poverty Correlation: The data visualizes a stark correlation between adult education levels and household poverty percentages from 2012 to 2022, highlighting that parental education remains the single strongest correlate of a child's school success.
+* Legislative Impact: Analysis of HR 471 (2011) and S-117 (2015) reveals a trend of defunding DoE resources for disadvantaged groups, creating a systemic barrier to entry.
 
 # Systems Integrity & Security Statement
 
