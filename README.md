@@ -55,7 +55,7 @@ def secure_ingestion(file_path):
 *Figure 1: Visualizing 2022 gaps in educational attainment for between races*
 
 ![Financial Aid Disparity](output/Aid_by_Race_2020.png)
-*Figure 1: Distribution of federal loan dependency across racial demographics, highlighting the 48% peak for Black students.*
+*Figure 2: Distribution of federal loan dependency across racial demographics, highlighting the 48% peak for Black students.*
 
 
 
