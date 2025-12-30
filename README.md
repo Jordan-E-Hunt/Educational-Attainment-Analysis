@@ -1,12 +1,14 @@
 # **[REPORT]** Between High School and College: The Unspoken Way Side
 
-## December 2025
+December 2025
 
-## Jordan Hunt
+Jordan Hunt
 
-## Python (Pandas, Matplotlib, Seaborn), Git, Google Colab
+Python (Pandas, Matplotlib, Seaborn), Git, Google Colab
 
-# Executive Summary
+Executive Summary
+
+---
 
 This project investigates the systemic, financial, and institutional barriers preventing minority students from successfully matriculating into higher levels of education. By comparing 2012 and 2022 Census data alongside education statistics from the Department of Education, this study identifies a multifaceted "enrollment gap" driven by high-school climate, parental educational attainment, and legislative funding shifts.
 
