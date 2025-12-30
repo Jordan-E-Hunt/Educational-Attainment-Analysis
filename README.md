@@ -49,6 +49,16 @@ def secure_ingestion(file_path):
 * Poverty Correlation: The data visualizes a stark correlation between adult education levels and household poverty percentages from 2012 to 2022, highlighting that parental education remains the single strongest correlate of a child's school success.
 * Legislative Impact: Analysis of HR 471 (2011) and S-117 (2015) reveals a trend of defunding DoE resources for disadvantaged groups, creating a systemic barrier to entry.
 
+### Visual Data Insights
+
+![Enrollment Gaps](output/Attainment_by_Race_2022.png)
+*Figure 1: Visualizing 2022 gaps in educational attainment for between races*
+
+![Financial Aid Disparity](output/Aid_by_Race_2020.png)
+*Figure 1: Distribution of federal loan dependency across racial demographics, highlighting the 48% peak for Black students.*
+
+
+
 ## Systems Integrity & Security Statement
 
 In alignment with Senior CS standards, this project treats data as a critical system component:
